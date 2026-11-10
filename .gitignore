@@ -1,0 +1,9 @@
+# Godot 4 导入缓存
+.godot/
+*.import
+export_presets.cfg
+.DS_Store
+Thumbs.db
+
+# 一次性探针截图
+shots/
